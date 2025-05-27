@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    #welcomeBanner { background: blue; color: white; padding: 10px; }
+    .highlight { background: yellow; }
+  </style>
+</head>
+<body>
+
+  <div id="welcomeBanner">
+    Welcome <span class="highlight">User</span>!
+    <span style="color:red; font-weight:bold;">50% Off</span>
+  </div>
+
+</body>
+</html>
